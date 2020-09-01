@@ -1,0 +1,24 @@
+{
+  "name": "mysql-employee-tracker",
+  "version": "1.0.0",
+  "description": "CLI where user can access a company database of employees, roles, and departments. They can add edit or remove from each table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjstalzer/MySQL-Employee-Tracker.git"
+  },
+  "author": "Matt Stalzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjstalzer/MySQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/mjstalzer/MySQL-Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
