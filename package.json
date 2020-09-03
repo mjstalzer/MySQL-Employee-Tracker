@@ -4,7 +4,8 @@
   "description": "CLI where user can access a company database of employees, roles, and departments. They can add edit or remove from each table.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
