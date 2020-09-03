@@ -9,6 +9,9 @@
 
   ## 1. Installation:
   * Run the following line of code in the command line.
+  ```
+  npm start
+  ```
   ## 2. Usage:
   * See installation. 
   ## 3. Contact Me:
